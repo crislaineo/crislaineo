@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Crislaine Oliveira
 
-**`Desenvolvedora FullStack`**
+**`Estudante de Análise e Desenvolvimento de Sistemas`**
 
     # 👩🏻‍💻 Crislaine Oliveira
 
