@@ -1,4 +1,4 @@
-# 👩‍💻 Crislaine Oliveira
+# ✷ Crislaine Oliveira
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 💻 Foco em Desenvolvimento Web  
