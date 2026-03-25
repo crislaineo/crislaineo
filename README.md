@@ -26,15 +26,15 @@ Tenho experiência com atendimento ao cliente e criação de conteúdo para rede
 
 ## 📌 Projetos
 
-🔹 [BellaNapoli]([link](https://www.behance.net/gallery/245820771/BellaNapoli))
-BellaNapolli é uma pizzaria fictícia desenvolvida a partir de um briefing proposto por Jaqueline Zanini. O projeto explora a criação de uma identidade visual completa inspirada em pizzarias italianas tradicionais localizadas em áreas urbanas movimentadas. A proposta combina cores vibrantes, tipografia marcante e elementos gráficos simples para construir uma marca dinâmica e reconhecível. O sistema visual foi aplicado em diferentes materiais, como embalagens, cardápio e peças promocionais.
+🔹 [BellaNapoli](https://www.behance.net/gallery/245820771/BellaNapoli)
+-BellaNapolli é uma pizzaria fictícia desenvolvida a partir de um briefing proposto por Jaqueline Zanini. O projeto explora a criação de uma identidade visual completa inspirada em pizzarias italianas tradicionais localizadas em áreas urbanas movimentadas. A proposta combina cores vibrantes, tipografia marcante e elementos gráficos simples para construir uma marca dinâmica e reconhecível. O sistema visual foi aplicado em diferentes materiais, como embalagens, cardápio e peças promocionais.
 
 
 🔹 [Desapeguei - Site Brechó simples](desapeguei.netlify.app)
-Projeto acadêmico desenvolvido com HTML, CSS e JS.
+-Projeto acadêmico desenvolvido com HTML, CSS e JS.
 
 🔹 [Huge Coffee](hugecoffee.netlify.app)
-Projeto acadêmico desenvolvido com HTML e CSS.
+-Projeto acadêmico desenvolvido com HTML e CSS.
 
 ---
 
