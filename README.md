@@ -30,10 +30,10 @@ Tenho experiência com atendimento ao cliente e criação de conteúdo para rede
 -BellaNapolli é uma pizzaria fictícia desenvolvida a partir de um briefing proposto por Jaqueline Zanini. O projeto explora a criação de uma identidade visual completa inspirada em pizzarias italianas tradicionais localizadas em áreas urbanas movimentadas. A proposta combina cores vibrantes, tipografia marcante e elementos gráficos simples para construir uma marca dinâmica e reconhecível. O sistema visual foi aplicado em diferentes materiais, como embalagens, cardápio e peças promocionais.
 
 
-🔹 [Desapeguei - Site Brechó simples](desapeguei.netlify.app)
+🔹 [Desapeguei - Site Brechó simples](https://desapeguei.netlify.app)
 -Projeto acadêmico desenvolvido com HTML, CSS e JS.
 
-🔹 [Huge Coffee](hugecoffee.netlify.app)
+🔹 [Huge Coffee](https://hugecoffee.netlify.app)
 -Projeto acadêmico desenvolvido com HTML e CSS.
 
 ---
