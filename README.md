@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## ✷ Sobre mim
 Sou estudante de Análise e Desenvolvimento de Sistemas, com interesse em desenvolvimento web e design gráfico. Busco unir conhecimentos técnicos à criação de interfaces funcionais e visualmente atrativas.
 
 Tenho experiência com atendimento ao cliente e criação de conteúdo para redes sociais como freelancer, o que fortaleceu minhas habilidades de comunicação, organização e criatividade.
@@ -38,7 +38,7 @@ Projeto acadêmico desenvolvido com HTML e CSS.
 
 ---
 
-## 📫 Contato
+## ✷ Contato
 - 📧 Email: crislaineo@hotmail.com
 - 💼 LinkedIn: www.linkedin.com/in/crislaineo  
 
